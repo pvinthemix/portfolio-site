@@ -4,7 +4,7 @@ import Modal from './Modal';
 
 const caseStudiesDetails = {
   'Landing Pages': {
-    context: 'paul paul paul Led research and market validation with Investor Relations teams and Fundraising campaigns to identify gaps in investor onboarding and engagement. Defined and delivered MVP for customized, branded investor portals with embedded fund materials, reporting dashboards, and targeted communications.',
+    context: 'Led research and market validation with Investor Relations teams and Fundraising campaigns to identify gaps in investor onboarding and engagement. Defined and delivered MVP for customized, branded investor portals with embedded fund materials, reporting dashboards, and targeted communications.',
     role: [
       'Led research and market validation with Investor Relations and Fundraising teams',
       'Defined MVP requirements and prioritization for customized, branded investor portals',
